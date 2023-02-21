@@ -1,0 +1,143 @@
+
+/* Current Students constituency (WBST) */
+.WBST                     {background-color:#FFFFFF; background-image:url(./images/sub-BGCurrentStudents.jpg);}
+.WBST #bodyConstituency   {color:#FFFFFF;}
+/*.WBST #bodyForm           {border-color:#FFFFFF;}*/
+.WBST .menu .submenu,
+.WBST .submit INPUT       {border-color:#5A71A5; color:#FFFFFF; background-color:#5A71A5;}
+.WBST .submit INPUT:hover,
+.WBST .submit INPUT.buttonPress,
+.WBST #menuTitle          { background-color:#C6D3E3; color:#5A71A5;}
+.WBST .menu a:hover,
+.WBST .menu .submenu a:hover {color:blue; font-weight:bold}
+
+.WBST table tr td.oddrow         {background-color: #DEE3EF; border:1px solid; border-color:#537DAC;}
+.WBST table tr td.evenrow        {background-color: #FFFFFF; border:1px solid; border-color:#537DAC;}
+.WBST table tr td.oddrow input   {background-color: #DEE3EF}
+.WBST table tr td.evenrow input  {background-color: #FFFFFF}
+.WBST table tr td.oddrow select  {background-color: #DEE3EF}
+.WBST table tr td.evenrow select {background-color: #FFFFFF}
+.WBST table th.groupTitle {display: none; }/*text-align: center;} */
+
+#mainMenu a.WBST_Bars        {border:3px solid #537DAC; background-color:#5A71A5;}
+#mainMenu a.WBST_Bars:hover  {border:3px solid #39597B}
+#mainMenu li.WBST_Boxes      {background-image:url(/datatel/openweb/images/main-pathCurrent.jpg); }
+#mainMenu li.WBST_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBST hr                  {height:2px; background-color: #5F8BB1; color: #0B2179;}
+.WBST.text { font:12px verdana; background-color:#FFFFFF; color:#000084;}
+.WBST.info { font-weight: bold; text-align: center; background-color:#FFFFFF; color:#0000A5;}
+.WBST.information  { font-weight: bold; text-align: left; color:black;}
+.WBST .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBST .tableClass { color: black; font-weight: bold; background-color:#A5B0C0;border:1px solid; border-color:#FFFFFF;}
+.WBST .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBST .headerClass { vertical-align: bottom; font-weight: bold; background-color:#5A71A5; color:#FFFFFF;}
+/*------------------------------------------------------------------------------------------------------*/
+
+/* Faculty constituency (WBFC) */
+.WBFC                     {background-color:#FFFFFF; background-image:url(./images/sub-BGCurrentStudents.jpg);}
+.WBFC #bodyConstituency   {color:#FFFFFF;}
+/*.WBFC #bodyForm           {border-color:#FFFFFF;}*/
+.WBFC .menu .submenu,
+.WBFC .submit INPUT       {border-color:#5A71A5; color:#FFFFFF; background-color:#5A71A5;}
+.WBFC .submit INPUT:hover,
+.WBFC .submit INPUT.buttonPress,
+.WBFC #menuTitle          { background-color:#C6D3E3; color:#5A71A5;}
+.WBFC .menu a:hover,
+.WBFC .menu .submenu a:hover {color:blue; font-weight:bold}
+
+.WBFC table tr td.oddrow         {background-color: #DEE3EF; border:1px solid; border-color:#537DAC;}
+.WBFC table tr td.evenrow        {background-color: #FFFFFF; border:1px solid; border-color:#537DAC;}
+.WBFC table tr td.oddrow input   {background-color: #DEE3EF}
+.WBFC table tr td.evenrow input  {background-color: #FFFFFF}
+.WBFC table tr td.oddrow select  {background-color: #DEE3EF}
+.WBFC table tr td.evenrow select {background-color: #FFFFFF}
+.WBFC table th.groupTitle {display: none; }/*text-align: center;} */
+
+#mainMenu a.WBFC_Bars        {border:3px solid #537DAC; background-color:#5A71A5;}
+#mainMenu a.WBFC_Bars:hover  {border:3px solid #39597B}
+#mainMenu li.WBFC_Boxes      {background-image:url(/datatel/openweb/images/main-pathCurrent.jpg); }
+#mainMenu li.WBFC_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBFC hr                  {height:2px; background-color: #5F8BB1; color: #0B2179;}
+.WBFC.text { font:12px verdana; background-color:#FFFFFF; color:#000084;}
+.WBFC.info { font-weight: bold; text-align: center; background-color:#FFFFFF; color:#0000A5;}
+.WBFC.information  { font-weight: bold; text-align: left; color:black;}
+.WBFC .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBFC .tableClass { color: black; font-weight: bold; background-color:#A5B0C0;border:1px solid; border-color:#FFFFFF;}
+.WBFC .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBFC .headerClass { vertical-align: bottom; font-weight: bold; background-color:#5A71A5; color:#FFFFFF;}
+
+/*------------------------------------------------------------------------------------------------------*/
+
+
+/* Employee constituency (WBEM) */
+.WBEM                     {background-color:#FFFFFF; background-image:url(./images/sub-BGCurrentStudents.jpg);}
+.WBEM #bodyConstituency   {color:#FFFFFF;}
+/*.WBEM #bodyForm           {border-color:#FFFFFF;}*/
+.WBEM .menu .submenu,
+.WBEM .submit INPUT       {border-color:#5A71A5; color:#FFFFFF; background-color:#5A71A5;}
+.WBEM .submit INPUT:hover,
+.WBEM .submit INPUT.buttonPress,
+.WBEM #menuTitle          { background-color:#C6D3E3; color:#5A71A5;}
+.WBEM .menu a:hover,
+.WBEM .menu .submenu a:hover {color:blue; font-weight:bold}
+
+.WBEM table tr td.oddrow         {background-color: #DEE3EF; border:1px solid; border-color:#537DAC;}
+.WBEM table tr td.evenrow        {background-color: #FFFFFF; border:1px solid; border-color:#537DAC;}
+.WBEM table tr td.oddrow input   {background-color: #DEE3EF}
+.WBEM table tr td.evenrow input  {background-color: #FFFFFF}
+.WBEM table tr td.oddrow select  {background-color: #DEE3EF}
+.WBEM table tr td.evenrow select {background-color: #FFFFFF}
+.WBEM table th.groupTitle {display: none; }/*text-align: center;} */
+
+#mainMenu a.WBEM_Bars        {border:3px solid #537DAC; background-color:#5A71A5;}
+#mainMenu a.WBEM_Bars:hover  {border:3px solid #39597B}
+#mainMenu li.WBEM_Boxes      {background-image:url(/datatel/openweb/images/main-pathCurrent.jpg); }
+#mainMenu li.WBEM_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBEM hr                  {height:2px; background-color: #5F8BB1; color: #0B2179;}
+.WBEM.text { font:12px verdana; background-color:#FFFFFF; color:#000084;}
+.WBEM.info { font-weight: bold; text-align: center; background-color:#FFFFFF; color:#0000A5;}
+.WBEM.information  { font-weight: bold; text-align: left; color:black;}
+.WBEM .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBEM .tableClass { color: black; font-weight: bold; background-color:#A5B0C0;border:1px solid; border-color:#FFFFFF;}
+.WBEM .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBEM .headerClass { vertical-align: bottom; font-weight: bold; background-color:#5A71A5; color:#FFFFFF;}
+
+/*------------------------------------------------------------------------------------------------------*/
+
+
+/* Default constituency (WBDF) */
+.WBDF                     {background-color:#FFFFFF; background-image:url(./images/sub-BGCurrentStudents.jpg);}
+.WBDF #bodyConstituency   {color:#FFFFFF;}
+/*.WBDF #bodyForm           {border-color:#FFFFFF;}*/
+.WBDF .menu .submenu,
+.WBDF .submit INPUT       {border-color:#5A71A5; color:#FFFFFF; background-color:#5A71A5;}
+.WBDF .submit INPUT:hover,
+.WBDF .submit INPUT.buttonPress,
+.WBDF #menuTitle          { background-color:#C6D3E3; color:#5A71A5;}
+.WBDF .menu a:hover,
+.WBDF .menu .submenu a:hover {color:blue; font-weight:bold}
+
+.WBDF table tr td.oddrow         {background-color: #FFFFFF; border:1px solid; border-color:#537DAC;}
+.WBDF table tr td.evenrow        {background-color: #DEE3EF; border:1px solid; border-color:#537DAC;}
+.WBDF table tr td.oddrow input   {background-color: #FFFFFF}
+.WBDF table tr td.evenrow input  {background-color: #DEE3EF}
+.WBDF table tr td.oddrow select  {background-color: #FFFFFF}
+.WBDF table tr td.evenrow select {background-color: #DEE3EF}
+.WBDF table th.groupTitle {display: none; }/*text-align: center;} */
+
+#mainMenu a.WBDF_Bars        {border:3px solid #537DAC; background-color:#5A71A5;}
+#mainMenu a.WBDF_Bars:hover  {border:3px solid #39597B}
+#mainMenu li.WBDF_Boxes      {background-image:url(/datatel/openweb/images/main-pathCurrent.jpg); }
+#mainMenu li.WBDF_Boxes a:hover {font-weight:bolder; font-size:13px;}
+
+.WBDF hr                  {height:2px; background-color: #5F8BB1; color: #0B2179;}
+.WBDF.text { font:12px verdana; background-color:#FFFFFF; color:#000084;}
+.WBDF.info { font-weight: bold; text-align: center; background-color:#FFFFFF; color:#0000A5;}
+.WBDF.information  { font-weight: bold; text-align: left; color:black;}
+.WBDF .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBDF .tableClass { color: black; font-weight: bold; background-color:#A5B0C0;border:1px solid; border-color:#FFFFFF;}
+.WBDF .columnHeaderClass { vertical-align: bottom; font-weight: bold; text-align: center; background-color:#5A71A5; color:#FFFFFF;}
+.WBDF .headerClass { vertical-align: bottom; font-weight: bold; background-color:#5A71A5; color:#FFFFFF;}
